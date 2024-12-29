@@ -1,0 +1,126 @@
+sale_id,sale_date,customer_id,product_id,quantity,price,customer_name,customer_email,product_name,product_category,product_price,total_amount,day_of_week,month,quarter
+1001,9/1/2024,C101,P201,2,29.99,Alex Johnson,alex.johnson@example.com,Wireless Mouse,Electronics,20.0,59.98,Sunday,September,3
+1002,9/2/2024,C102,P202,1,49.99,Emily Davis,emily.davis@example.com,LED Desk Lamp,Home & Office,35.0,49.99,Monday,September,3
+1003,9/2/2024,C103,P203,3,15.99,Michael Brown,michael.brown@example.com,Notebook Set,Stationery,10.0,47.97,Monday,September,3
+1004,9/3/2024,C101,P204,1,99.99,Alex Johnson,alex.johnson@example.com,Bluetooth Speaker,Electronics,75.0,99.99,Tuesday,September,3
+1005,9/4/2024,C104,P201,2,29.99,Sophia Wilson,sophia.wilson@example.com,Wireless Mouse,Electronics,20.0,59.98,Wednesday,September,3
+1006,9/5/2024,C105,P202,4,49.99,Daniel Smith,daniel.smith@example.com,LED Desk Lamp,Home & Office,35.0,199.96,Thursday,September,3
+1007,9/6/2024,C106,P203,1,15.99,Olivia Martin,olivia.martin@example.com,Notebook Set,Stationery,10.0,15.99,Friday,September,3
+1008,9/7/2024,C107,P204,5,99.99,Matthew Clark,matthew.clark@example.com,Bluetooth Speaker,Electronics,75.0,499.95,Saturday,September,3
+1009,9/8/2024,C108,P201,2,29.99,Isabella Lewis,isabella.lewis@example.com,Wireless Mouse,Electronics,20.0,59.98,Sunday,September,3
+1010,9/9/2024,C109,P202,3,49.99,Ethan Walker,ethan.walker@example.com,LED Desk Lamp,Home & Office,35.0,149.97,Monday,September,3
+1011,9/10/2024,C110,P203,2,15.99,Mia Hall,mia.hall@example.com,Notebook Set,Stationery,10.0,31.98,Tuesday,September,3
+1012,9/11/2024,C111,P204,4,99.99,William Young,william.young@example.com,Bluetooth Speaker,Electronics,75.0,399.96,Wednesday,September,3
+1013,9/12/2024,C112,P201,1,29.99,Ava Hernandez,ava.hernandez@example.com,Wireless Mouse,Electronics,20.0,29.99,Thursday,September,3
+1014,9/13/2024,C113,P202,5,49.99,James King,james.king@example.com,LED Desk Lamp,Home & Office,35.0,249.95000000000002,Friday,September,3
+1015,9/14/2024,C114,P203,3,15.99,Charlotte Wright,charlotte.wright@example.com,Notebook Set,Stationery,10.0,47.97,Saturday,September,3
+1016,9/15/2024,C115,P204,2,99.99,Logan Lopez,logan.lopez@example.com,Bluetooth Speaker,Electronics,75.0,199.98,Sunday,September,3
+1017,9/16/2024,C116,P201,4,29.99,Amelia Hill,amelia.hill@example.com,Wireless Mouse,Electronics,20.0,119.96,Monday,September,3
+1018,9/17/2024,C117,P202,1,49.99,Benjamin Scott,benjamin.scott@example.com,LED Desk Lamp,Home & Office,35.0,49.99,Tuesday,September,3
+1019,9/18/2024,C118,P203,5,15.99,Evelyn Green,evelyn.green@example.com,Notebook Set,Stationery,10.0,79.95,Wednesday,September,3
+1020,9/19/2024,C119,P204,3,99.99,Jacob Adams,jacob.adams@example.com,Bluetooth Speaker,Electronics,75.0,299.96999999999997,Thursday,September,3
+1021,9/20/2024,C120,P201,2,29.99,Harper Baker,harper.baker@example.com,Wireless Mouse,Electronics,20.0,59.98,Friday,September,3
+1022,9/21/2024,C121,P202,4,49.99,Alexander Gonzalez,alexander.gonzalez@example.com,LED Desk Lamp,Home & Office,35.0,199.96,Saturday,September,3
+1023,9/22/2024,C122,P203,1,15.99,Abigail Nelson,abigail.nelson@example.com,Notebook Set,Stationery,10.0,15.99,Sunday,September,3
+1024,9/23/2024,C123,P204,5,99.99,Jackson Carter,jackson.carter@example.com,Bluetooth Speaker,Electronics,75.0,499.95,Monday,September,3
+1025,9/24/2024,C124,P201,3,29.99,Emily Mitchell,emily.mitchell@example.com,Wireless Mouse,Electronics,20.0,89.97,Tuesday,September,3
+1026,9/25/2024,C125,P202,2,49.99,Liam Perez,liam.perez@example.com,LED Desk Lamp,Home & Office,35.0,99.98,Wednesday,September,3
+1027,9/26/2024,C126,P203,4,15.99,Sophia Roberts,sophia.roberts@example.com,Notebook Set,Stationery,10.0,63.96,Thursday,September,3
+1028,9/27/2024,C127,P204,1,99.99,Noah Turner,noah.turner@example.com,Bluetooth Speaker,Electronics,75.0,99.99,Friday,September,3
+1029,9/28/2024,C128,P201,5,29.99,Grace Phillips,grace.phillips@example.com,Wireless Mouse,Electronics,20.0,149.95,Saturday,September,3
+1030,9/29/2024,C129,P202,3,49.99,Elijah Campbell,elijah.campbell@example.com,LED Desk Lamp,Home & Office,35.0,149.97,Sunday,September,3
+1031,9/30/2024,C130,P203,2,15.99,Chloe Parker,chloe.parker@example.com,Notebook Set,Stationery,10.0,31.98,Monday,September,3
+1032,10/1/2024,C131,P204,4,99.99,Aiden Evans,aiden.evans@example.com,Bluetooth Speaker,Electronics,75.0,399.96,Tuesday,October,4
+1033,10/2/2024,C132,P201,1,29.99,Victoria Edwards,victoria.edwards@example.com,Wireless Mouse,Electronics,20.0,29.99,Wednesday,October,4
+1034,10/3/2024,C133,P202,5,49.99,Lucas Collins,lucas.collins@example.com,LED Desk Lamp,Home & Office,35.0,249.95000000000002,Thursday,October,4
+1035,10/4/2024,C134,P203,3,15.99,Penelope Stewart,penelope.stewart@example.com,Notebook Set,Stationery,10.0,47.97,Friday,October,4
+1036,10/5/2024,C135,P204,2,99.99,Oliver Sanchez,oliver.sanchez@example.com,Bluetooth Speaker,Electronics,75.0,199.98,Saturday,October,4
+1037,10/6/2024,C136,P201,4,29.99,Lily Morris,lily.morris@example.com,Wireless Mouse,Electronics,20.0,119.96,Sunday,October,4
+1038,10/7/2024,C137,P202,1,49.99,Henry Rogers,henry.rogers@example.com,LED Desk Lamp,Home & Office,35.0,49.99,Monday,October,4
+1039,10/8/2024,C138,P203,5,15.99,Ella Reed,ella.reed@example.com,Notebook Set,Stationery,10.0,79.95,Tuesday,October,4
+1040,10/9/2024,C139,P204,3,99.99,Samuel Cook,samuel.cook@example.com,Bluetooth Speaker,Electronics,75.0,299.96999999999997,Wednesday,October,4
+1041,10/10/2024,C140,P201,2,29.99,Madison Morgan,madison.morgan@example.com,Wireless Mouse,Electronics,20.0,59.98,Thursday,October,4
+1042,10/11/2024,C141,P202,4,49.99,Daniel Bell,daniel.bell@example.com,LED Desk Lamp,Home & Office,35.0,199.96,Friday,October,4
+1043,10/12/2024,C142,P203,1,15.99,Sofia Murphy,sofia.murphy@example.com,Notebook Set,Stationery,10.0,15.99,Saturday,October,4
+1044,10/13/2024,C143,P204,5,99.99,Joseph Bailey,joseph.bailey@example.com,Bluetooth Speaker,Electronics,75.0,499.95,Sunday,October,4
+1045,10/14/2024,C144,P201,3,29.99,Hannah Rivera,hannah.rivera@example.com,Wireless Mouse,Electronics,20.0,89.97,Monday,October,4
+1046,10/15/2024,C145,P202,2,49.99,David Cooper,david.cooper@example.com,LED Desk Lamp,Home & Office,35.0,99.98,Tuesday,October,4
+1047,10/16/2024,C146,P203,4,15.99,Aria Richardson,aria.richardson@example.com,Notebook Set,Stationery,10.0,63.96,Wednesday,October,4
+1048,10/17/2024,C147,P204,1,99.99,Carter Cox,carter.cox@example.com,Bluetooth Speaker,Electronics,75.0,99.99,Thursday,October,4
+1049,10/18/2024,C148,P201,5,29.99,Scarlett Howard,scarlett.howard@example.com,Wireless Mouse,Electronics,20.0,149.95,Friday,October,4
+1050,10/19/2024,C149,P202,3,49.99,Owen Ward,owen.ward@example.com,LED Desk Lamp,Home & Office,35.0,149.97,Saturday,October,4
+1051,10/20/2024,C150,P203,2,15.99,Lillian Torres,lillian.torres@example.com,Notebook Set,Stationery,10.0,31.98,Sunday,October,4
+1052,10/21/2024,C151,P204,4,99.99,Wyatt Peterson,wyatt.peterson@example.com,Bluetooth Speaker,Electronics,75.0,399.96,Monday,October,4
+1053,10/22/2024,C152,P201,1,29.99,Ella Gray,ella.gray@example.com,Wireless Mouse,Electronics,20.0,29.99,Tuesday,October,4
+1054,10/23/2024,C153,P202,5,49.99,Jack Ramirez,jack.ramirez@example.com,LED Desk Lamp,Home & Office,35.0,249.95000000000002,Wednesday,October,4
+1055,10/24/2024,C154,P203,3,15.99,Eleanor James,eleanor.james@example.com,Notebook Set,Stationery,10.0,47.97,Thursday,October,4
+1056,10/25/2024,C155,P204,2,99.99,Matthew Brooks,matthew.brooks@example.com,Bluetooth Speaker,Electronics,75.0,199.98,Friday,October,4
+1057,10/26/2024,C156,P201,4,29.99,Avery Kelly,avery.kelly@example.com,Wireless Mouse,Electronics,20.0,119.96,Saturday,October,4
+1058,10/27/2024,C157,P202,1,49.99,Sebastian Sanders,sebastian.sanders@example.com,LED Desk Lamp,Home & Office,35.0,49.99,Sunday,October,4
+1059,10/28/2024,C158,P203,5,15.99,Zoey Price,zoey.price@example.com,Notebook Set,Stationery,10.0,79.95,Monday,October,4
+1060,10/29/2024,C159,P204,3,99.99,Caleb Bennett,caleb.bennett@example.com,Bluetooth Speaker,Electronics,75.0,299.96999999999997,Tuesday,October,4
+1061,10/30/2024,C160,P201,2,29.99,Nora Wood,nora.wood@example.com,Wireless Mouse,Electronics,20.0,59.98,Wednesday,October,4
+1062,10/31/2024,C161,P202,4,49.99,Andrew Barnes,andrew.barnes@example.com,LED Desk Lamp,Home & Office,35.0,199.96,Thursday,October,4
+1063,11/1/2024,C162,P203,1,15.99,Riley Ross,riley.ross@example.com,Notebook Set,Stationery,10.0,15.99,Friday,November,4
+1064,11/2/2024,C163,P204,5,99.99,Isaac Henderson,isaac.henderson@example.com,Bluetooth Speaker,Electronics,75.0,499.95,Saturday,November,4
+1065,11/3/2024,C164,P201,3,29.99,Samantha Coleman,samantha.coleman@example.com,Wireless Mouse,Electronics,20.0,89.97,Sunday,November,4
+1066,11/4/2024,C165,P202,2,49.99,Ryan Jenkins,ryan.jenkins@example.com,LED Desk Lamp,Home & Office,35.0,99.98,Monday,November,4
+1067,11/5/2024,C166,P203,4,15.99,Leah Perry,leah.perry@example.com,Notebook Set,Stationery,10.0,63.96,Tuesday,November,4
+1068,11/6/2024,C167,P204,1,99.99,Christopher Powell,christopher.powell@example.com,Bluetooth Speaker,Electronics,75.0,99.99,Wednesday,November,4
+1069,11/7/2024,C168,P201,5,29.99,Audrey Long,audrey.long@example.com,Wireless Mouse,Electronics,20.0,149.95,Thursday,November,4
+1070,11/8/2024,C169,P202,3,49.99,Nathan Patterson,nathan.patterson@example.com,LED Desk Lamp,Home & Office,35.0,149.97,Friday,November,4
+1071,11/9/2024,C170,P203,2,15.99,Grace Hughes,grace.hughes@example.com,Notebook Set,Stationery,10.0,31.98,Saturday,November,4
+1072,11/10/2024,C171,P204,4,99.99,Thomas Flores,thomas.flores@example.com,Bluetooth Speaker,Electronics,75.0,399.96,Sunday,November,4
+1073,11/11/2024,C172,P201,1,29.99,Violet Simmons,violet.simmons@example.com,Wireless Mouse,Electronics,20.0,29.99,Monday,November,4
+1074,11/12/2024,C173,P202,5,49.99,Caleb Foster,caleb.foster@example.com,LED Desk Lamp,Home & Office,35.0,249.95000000000002,Tuesday,November,4
+1075,11/13/2024,C174,P203,3,15.99,Lily Butler,lily.butler@example.com,Notebook Set,Stationery,10.0,47.97,Wednesday,November,4
+1076,11/14/2024,C175,P204,2,99.99,Jonathan Richardson,jonathan.richardson@example.com,Bluetooth Speaker,Electronics,75.0,199.98,Thursday,November,4
+1077,11/15/2024,C176,P201,4,29.99,Zoe Bryant,zoe.bryant@example.com,Wireless Mouse,Electronics,20.0,119.96,Friday,November,4
+1078,11/16/2024,C177,P202,1,49.99,Charles Alexander,charles.alexander@example.com,LED Desk Lamp,Home & Office,35.0,49.99,Saturday,November,4
+1079,11/17/2024,C178,P203,5,15.99,Stella Russell,stella.russell@example.com,Notebook Set,Stationery,10.0,79.95,Sunday,November,4
+1080,11/18/2024,C179,P204,3,99.99,Christian Griffin,christian.griffin@example.com,Bluetooth Speaker,Electronics,75.0,299.96999999999997,Monday,November,4
+1081,11/19/2024,C180,P201,2,29.99,Evelyn Diaz,evelyn.diaz@example.com,Wireless Mouse,Electronics,20.0,59.98,Tuesday,November,4
+1082,11/20/2024,C181,P202,4,49.99,Aaron Hayes,aaron.hayes@example.com,LED Desk Lamp,Home & Office,35.0,199.96,Wednesday,November,4
+1083,11/21/2024,C182,P203,1,15.99,Lucy Myers,lucy.myers@example.com,Notebook Set,Stationery,10.0,15.99,Thursday,November,4
+1084,11/22/2024,C183,P204,5,99.99,Adam Ford,adam.ford@example.com,Bluetooth Speaker,Electronics,75.0,499.95,Friday,November,4
+1085,11/23/2024,C184,P201,3,29.99,Victoria Hamilton,victoria.hamilton@example.com,Wireless Mouse,Electronics,20.0,89.97,Saturday,November,4
+1086,11/24/2024,C185,P202,2,49.99,Isaiah Graham,isaiah.graham@example.com,LED Desk Lamp,Home & Office,35.0,99.98,Sunday,November,4
+1087,11/25/2024,C186,P203,4,15.99,Brooklyn Wallace,brooklyn.wallace@example.com,Notebook Set,Stationery,10.0,63.96,Monday,November,4
+1088,11/26/2024,C187,P204,1,99.99,Nicholas West,nicholas.west@example.com,Bluetooth Speaker,Electronics,75.0,99.99,Tuesday,November,4
+1089,11/27/2024,C188,P201,5,29.99,Anna Cole,anna.cole@example.com,Wireless Mouse,Electronics,20.0,149.95,Wednesday,November,4
+1090,11/28/2024,C189,P202,3,49.99,Jeremiah Jordan,jeremiah.jordan@example.com,LED Desk Lamp,Home & Office,35.0,149.97,Thursday,November,4
+1091,11/29/2024,C190,P203,2,15.99,Hazel Reynolds,hazel.reynolds@example.com,Notebook Set,Stationery,10.0,31.98,Friday,November,4
+1092,11/30/2024,C191,P204,4,99.99,Joshua Fisher,joshua.fisher@example.com,Bluetooth Speaker,Electronics,75.0,399.96,Saturday,November,4
+1093,12/1/2024,C192,P201,1,29.99,Claire Kim,claire.kim@example.com,Wireless Mouse,Electronics,20.0,29.99,Sunday,December,4
+1094,12/2/2024,C193,P202,5,49.99,Levi Butler,levi.butler@example.com,LED Desk Lamp,Home & Office,35.0,249.95000000000002,Monday,December,4
+1095,12/3/2024,C194,P203,3,15.99,Aria Bennett,aria.bennett@example.com,Notebook Set,Stationery,10.0,47.97,Tuesday,December,4
+1096,12/4/2024,C195,P204,2,99.99,David Cox,david.cox@example.com,Bluetooth Speaker,Electronics,75.0,199.98,Wednesday,December,4
+1097,12/5/2024,C196,P201,4,29.99,Scarlett Nguyen,scarlett.nguyen@example.com,Wireless Mouse,Electronics,20.0,119.96,Thursday,December,4
+1098,12/6/2024,C197,P202,1,49.99,Isaac Brooks,isaac.brooks@example.com,LED Desk Lamp,Home & Office,35.0,49.99,Friday,December,4
+1099,12/7/2024,C198,P203,5,15.99,Luna Ward,luna.ward@example.com,Notebook Set,Stationery,10.0,79.95,Saturday,December,4
+1100,12/8/2024,C199,P204,3,99.99,Julian Torres,julian.torres@example.com,Bluetooth Speaker,Electronics,75.0,299.96999999999997,Sunday,December,4
+1101,12/9/2024,C200,P201,2,29.99,Sadie Peterson,sadie.peterson@example.com,Wireless Mouse,Electronics,20.0,59.98,Monday,December,4
+1102,12/10/2024,C101,P202,4,49.99,Alex Johnson,alex.johnson@example.com,LED Desk Lamp,Home & Office,35.0,199.96,Tuesday,December,4
+1103,12/11/2024,C102,P203,1,15.99,Emily Davis,emily.davis@example.com,Notebook Set,Stationery,10.0,15.99,Wednesday,December,4
+1104,12/12/2024,C103,P204,5,99.99,Michael Brown,michael.brown@example.com,Bluetooth Speaker,Electronics,75.0,499.95,Thursday,December,4
+1105,12/13/2024,C104,P201,3,29.99,Sophia Wilson,sophia.wilson@example.com,Wireless Mouse,Electronics,20.0,89.97,Friday,December,4
+1106,12/14/2024,C105,P202,2,49.99,Daniel Smith,daniel.smith@example.com,LED Desk Lamp,Home & Office,35.0,99.98,Saturday,December,4
+1107,12/15/2024,C106,P203,4,15.99,Olivia Martin,olivia.martin@example.com,Notebook Set,Stationery,10.0,63.96,Sunday,December,4
+1108,12/16/2024,C107,P204,1,99.99,Matthew Clark,matthew.clark@example.com,Bluetooth Speaker,Electronics,75.0,99.99,Monday,December,4
+1109,12/17/2024,C108,P201,5,29.99,Isabella Lewis,isabella.lewis@example.com,Wireless Mouse,Electronics,20.0,149.95,Tuesday,December,4
+1110,12/18/2024,C109,P202,3,49.99,Ethan Walker,ethan.walker@example.com,LED Desk Lamp,Home & Office,35.0,149.97,Wednesday,December,4
+1111,12/19/2024,C110,P203,2,15.99,Mia Hall,mia.hall@example.com,Notebook Set,Stationery,10.0,31.98,Thursday,December,4
+1112,12/20/2024,C111,P204,4,99.99,William Young,william.young@example.com,Bluetooth Speaker,Electronics,75.0,399.96,Friday,December,4
+1113,12/21/2024,C112,P201,1,29.99,Ava Hernandez,ava.hernandez@example.com,Wireless Mouse,Electronics,20.0,29.99,Saturday,December,4
+1114,12/22/2024,C113,P202,5,49.99,James King,james.king@example.com,LED Desk Lamp,Home & Office,35.0,249.95000000000002,Sunday,December,4
+1115,12/23/2024,C114,P203,3,15.99,Charlotte Wright,charlotte.wright@example.com,Notebook Set,Stationery,10.0,47.97,Monday,December,4
+1116,12/24/2024,C115,P204,2,99.99,Logan Lopez,logan.lopez@example.com,Bluetooth Speaker,Electronics,75.0,199.98,Tuesday,December,4
+1117,12/25/2024,C116,P201,4,29.99,Amelia Hill,amelia.hill@example.com,Wireless Mouse,Electronics,20.0,119.96,Wednesday,December,4
+1118,12/26/2024,C117,P202,1,49.99,Benjamin Scott,benjamin.scott@example.com,LED Desk Lamp,Home & Office,35.0,49.99,Thursday,December,4
+1119,12/27/2024,C118,P203,5,15.99,Evelyn Green,evelyn.green@example.com,Notebook Set,Stationery,10.0,79.95,Friday,December,4
+1120,12/28/2024,C119,P204,3,99.99,Jacob Adams,jacob.adams@example.com,Bluetooth Speaker,Electronics,75.0,299.96999999999997,Saturday,December,4
+1121,12/29/2024,C120,P201,2,29.99,Harper Baker,harper.baker@example.com,Wireless Mouse,Electronics,20.0,59.98,Sunday,December,4
+1122,12/30/2024,C121,P202,4,49.99,Alexander Gonzalez,alexander.gonzalez@example.com,LED Desk Lamp,Home & Office,35.0,199.96,Monday,December,4
+1123,12/31/2024,C122,P203,1,15.99,Abigail Nelson,abigail.nelson@example.com,Notebook Set,Stationery,10.0,15.99,Tuesday,December,4
+1124,1/1/2025,C123,P204,5,99.99,Jackson Carter,jackson.carter@example.com,Bluetooth Speaker,Electronics,75.0,499.95,Wednesday,January,1
+1125,1/2/2025,C124,P201,3,29.99,Emily Mitchell,emily.mitchell@example.com,Wireless Mouse,Electronics,20.0,89.97,Thursday,January,1
